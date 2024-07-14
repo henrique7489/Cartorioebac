@@ -145,7 +145,7 @@ int main()
 			
 			case 4:
 			printf("Obrigado por utilizar o sistema!\n");
-			return 0
+			return 0;
 			
 			default:
 			printf("Essa opção não está disponível!\n");
